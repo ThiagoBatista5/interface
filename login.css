@@ -7,7 +7,7 @@ body {
   max-width: 588px;
   display: flex;
   flex-direction: column;
-  background-image: url(./foto.png);
+  background-image: url(./imagen.png.jpg);
   background-repeat: no-repeat;
   background-position-y: top;
   background-size: cover;
