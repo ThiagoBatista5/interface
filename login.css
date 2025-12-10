@@ -1,5 +1,6 @@
 /*plano de deixar a intrface bonita, porem simples*/
 body {
+  height: 100%;
   align-items: center;
   justify-content: center;
   margin: auto;
